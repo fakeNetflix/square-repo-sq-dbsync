@@ -10,7 +10,7 @@ GEM
     mysql2 (0.3.11)
     parallel (0.6.2)
     pg (0.14.1)
-    rake (10.0.3)
+    rake (12.3.3)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
